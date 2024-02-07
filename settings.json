@@ -1,0 +1,282 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "material-icon-theme",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "enableTelemetry": true,
+    "actionTypes": "TODO,FIXME,HACK,BUG,UNDONE,ERROR",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDelete": false,
+    "emulator.emulatorPathWindows": "C:\\Users\\michael.martin\\AppData\\Local\\Android\\Sdk\\emulator",
+    "emulator.emulatorPath": "C:\\Users\\michael.martin\\AppData\\Local\\Android\\Sdk\\emulator",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "material-icon-theme.activeIconPack": "react_redux",
+    "material-icon-theme.folders.color": "#90a4ae",
+    "python.autoComplete.extraPaths": [
+        "c:\\Users\\michael.martin\\.vscode\\extensions\\fxtd-odyssey.mayapy-1.0.4\\mayaSDK"
+    ],
+    "explorer.compactFolders": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "[shellscript]": {
+        "editor.defaultFormatter": "shakram02.bash-beautify"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "docker.containers.label": "ContainerName",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook",
+        "*.db": "sqlite-viewer.option"
+    },
+    "python.analysis.extraPaths": [
+        "c:\\Users\\michael.martin\\.vscode\\extensions\\fxtd-odyssey.mayapy-1.0.4\\mayaSDK"
+    ],
+    "security.workspace.trust.untrustedFiles": "open",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "remote.SSH.remotePlatform": {
+        "188.213.164.42": "linux"
+    },
+    "editor.largeFileOptimizations": false,
+    "mssql.connections": [
+        {
+            "server": "{{put-server-name-here}}",
+            "database": "{{put-database-name-here}}",
+            "user": "{{put-username-here}}",
+            "password": ""
+        }
+    ],
+    "gitlab.instanceUrl": "https://gitlab.bitec.it",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.profiles.windows": {
+        "C:\\Users\\michael.martin\\AppData\\Local\\Programs\\Git\\bin\\bash.exe (migrated)": {
+            "path": "C:\\Users\\michael.martin\\AppData\\Local\\Programs\\Git\\bin\\bash.exe",
+            "args": []
+        }
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "[markdown]": {
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[dockercompose]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    },
+    "testing.saveBeforeTest": false,
+    "testing.openTesting": "neverOpen",
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "scm.alwaysShowRepositories": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "todo-tree.highlights.defaultHighlight": {},
+    "todo-tree.general.showActivityBarBadge": true,
+    "todo-tree.highlights.useColourScheme": true,
+    "todo-tree.tree.showCountsInTree": true,
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "ENHANCEMENT",
+        "[ ]",
+        "[x]",
+        "SOLUTION",
+        "PLACEHOLDER"
+    ],
+    "todo-tree.highlights.backgroundColourScheme": [
+        "red",
+        "orange",
+        "yellow",
+        "green",
+        "darkviolet",
+        "indigo",
+        "blue",
+        "lightgreen",
+        "white"
+    ],
+    "todo-tree.highlights.foregroundColourScheme": [
+        "white",
+        "black",
+        "black",
+        "white",
+        "black",
+        "white",
+        "white",
+        "black",
+        "black"
+    ],
+    "workbench.editor.empty.hint": "hidden",
+    "[sql]": {
+        "editor.defaultFormatter": "mtxr.sqltools"
+    },
+    "gitlab.ignoreCertificateErrors": true,
+    "terminal.integrated.automationProfile.windows": {},
+    "vim.useSystemClipboard": true,
+    "vim.argumentObjectClosingDelimiters": [
+        ")",
+        "]",
+        "}"
+    ],
+    "vim.argumentObjectOpeningDelimiters": [
+        "(",
+        "[",
+        "{"
+    ],
+    "vim.smartRelativeLine": true,
+    "editor.cursorSurroundingLines": 8,
+    "vim.handleKeys": {
+        "<C-d>": true,
+        "<C-s>": false,
+        "<C-z>": false,
+        "<C-k>": false,
+        "<C-c>": false,
+        "<C-v>": false,
+        "<C-x>": false
+    },
+    "vim.normalModeKeyBindings": [
+        {
+            "before": [
+                "g",
+                "p",
+                "d"
+            ],
+            "commands": [
+                "editor.action.peekDefinition"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "h"
+            ],
+            "commands": [
+                "editor.action.showDefinitionPreviewHover"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "i"
+            ],
+            "commands": [
+                "editor.action.goToImplementation"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "p",
+                "i"
+            ],
+            "commands": [
+                "editor.action.peekImplementation"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "q"
+            ],
+            "commands": [
+                "editor.action.quickFix"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "r"
+            ],
+            "commands": [
+                "editor.action.referenceSearch.trigger"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "t"
+            ],
+            "commands": [
+                "editor.action.goToTypeDefinition"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "p",
+                "t"
+            ],
+            "commands": [
+                "editor.action.peekTypeDefinition"
+            ]
+        },
+        {
+            "before": [
+                "<leader>",
+                "e"
+            ],
+            "commands": [
+                "workbench.view.explorer"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "f"
+            ],
+            "commands": [
+                "workbench.action.quickOpen"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "n"
+            ],
+            "commands": [
+                "workbench.action."
+            ]
+        },
+        {
+            "before": [
+                "c",
+                "e"
+            ],
+            "commands": [
+                "workbench.action.closeActiveEditor"
+            ]
+        },
+        {
+            "before": [
+                "t",
+                "n"
+            ],
+            "commands": [
+                "workbench.action.terminal.new"
+            ]
+        },
+    ],
+}
